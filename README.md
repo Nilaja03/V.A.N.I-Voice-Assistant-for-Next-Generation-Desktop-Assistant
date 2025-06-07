@@ -37,6 +37,11 @@ V.A.N.I (Voice-Activated Next-Generation Interface) is an AI-powered adaptive vo
 
 ---
 
+## 💻 Run VANI
+Run the run.py file to use VANI
+
+---
+
 ## 📦 Example Commands
 1. “Alexa, open Chrome”
 2. “Alexa, tell me a joke”
